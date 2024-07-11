@@ -41,21 +41,23 @@ On the webterm of the sandbox, do the following:
 
  - Clone your repository
 
-´git clone git@github.com:KikeCarbonell/holbertonschool-pre_course.git´ 
+`git clone git@github.com:KikeCarbonell/holbertonschool-pre_course.git`
 
 **Step 6 - Create the README.md and push the modifications**
 
  - Navigate to this new directory.
 
-´cd holbertonschool-pre_course´
+`cd holbertonschool-pre_course`
 
 -Create the file ´README.md´ with the content ´My first readme´.
 
  - Add this new file to git, commit the change with this message “My first commit” and push to the remote server / origin
 
-|git add|
-|git commit -m "My first commit"|
-|git push|
+```
+git add
+git commit -m "My first commit"
+git push
+```
 
 Good job!
 You pushed your first file in your first repository.

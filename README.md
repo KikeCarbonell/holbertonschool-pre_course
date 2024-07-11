@@ -49,16 +49,14 @@ On the webterm of the sandbox, do the following:
 
 `cd holbertonschool-pre_course`
 
--Create the file ´README.md´ with the content ´My first readme´.
+-Create the file `README.md` with the content `My first readme`.
 
  - Add this new file to git, commit the change with this message “My first commit” and push to the remote server / origin
 
-```
-git add
-git commit -m "My first commit"
-git push
-```
+`git add`
+`git commit -m "My first commit"`
+`git push`
 
 Good job!
-You pushed your first file in your first repository.
+You pushed your first file in your `first repository`.
 You can now check your repository on GitHub to see if everything is good.
